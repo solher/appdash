@@ -1,2 +1,2 @@
 # appdash
-An Appdash server implementation
+An Appdash server Dockerfile
